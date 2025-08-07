@@ -1,5 +1,5 @@
 
-# JA - IoT e otimização de sistemas
+# JA - Otimização de Sistemas e IoT
 Este repositório será o espaço central para disponibilizar materiais, links de apoio, exemplos de código e atividades ao longo do curso.  
 ---
 
