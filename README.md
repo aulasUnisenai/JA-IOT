@@ -39,6 +39,8 @@ Este repositório será o espaço central para disponibilizar materiais, links d
 - [Mecanismo Online para Referências](https://more.ufsc.br)
 - [Google Trends](https://trends.google.com.br/trends)
 
+## 🔗 Livros
+- [E-BOOK INTERNET DAS COISAS PARA INICIANTES COM ESP-32](https://blog.arduinoomega.com/ebooks/Eletronica-Omega-Iot-Iniciantes-Esp32.pdf)
 ## 🔗 Materiais de apoio
 - [Otimização da Impressão 3D tipo FDM através do monitoramento IoT](https://sol.sbc.org.br/index.php/ideia/article/view/36294)
 - [Construção de uma estufa in situ para conservação de filamentos de PLA para impressão 3D com monitoramento IoT](https://sol.sbc.org.br/index.php/ideia/article/view/36288)
