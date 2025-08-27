@@ -26,7 +26,11 @@ Este repositório será o espaço central para disponibilizar materiais, links d
 ## 🔗 Links para compras de equipamentos
 - [RoboCore](https://www.robocore.net)
 - [Eletrogate](https://www.eletrogate.comhttps://www.eletrogate.com)
-  
+
+## 🔗 Plataformas de apoio
+- [Blynk](https://blynk.io)
+- [OctoPrint](https://octoprint.org)
+- 
 ## 🔗 Escrita científica
 
 - [Exemplo de artigo IMRaD: Um guia para entender a redação científica](https://mindthegraph.com/blog/pt/imrad-paper-example)
